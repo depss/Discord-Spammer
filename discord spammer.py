@@ -10,7 +10,7 @@ import pyautogui
 from colorama import init, Fore
 
 init()
-ctypes.windll.kernel32.SetConsoleTitleW('Discord Spammer By depss')
+ctypes.windll.kernel32.SetConsoleTitleW('Discord Spammer By depss#3615')
 
 limit = 100
 limit2 = 50
